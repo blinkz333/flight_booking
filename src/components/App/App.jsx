@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import BpkText from '@skyscanner/backpack-web/bpk-component-text';
 
 import Header from "../Header";
 
