@@ -1,7 +1,76 @@
-@import '~bpk-mixins';
+@import "~bpk-mixins";
 
 .App {
   &__main {
     padding: bpk-spacing-base();
+  }
+
+  &__price {
+    float: left;
+    margin: 0;
+  }
+  &__price_text {
+    font-size: 30px;
+  }
+  &__agent_contact {
+    margin-top: 15px;
+    color: #c6ccd0;
+  }
+
+  &__button {
+    flex-direction: row;
+    float: right;
+    font-weight: bold;
+    width: 150px;
+    font-size: 20px;
+    background-color: #05203c;
+  }
+}
+
+.Box {
+  &__time_start {
+    display: inline-grid;
+    margin-left: 20px;
+  }
+
+  &__text_time {
+    font-size: 20px;
+  }
+
+  &__text_location {
+    font-size: 20px;
+    color: #545860;
+    margin-top: 10px;
+  }
+
+  &__arrow {
+    display: inline;
+    margin-left: 30px;
+  }
+
+  &__time_arrival {
+    display: inline-grid;
+    margin-left: 30px;
+  }
+
+  &__cal_time {
+    display: inline-grid;
+    margin-top: 10px;
+    float: right;
+  }
+
+  &__text_cal {
+    font-size: 14px;
+  }
+
+  &__text_condition {
+    font-size: 14px;
+    color: #4bb9bf;
+    margin-top: "10px";
+  }
+  &__text_condition_stop {
+    font-size: 14px;
+    color: #e70866;
+    margin-top: "10px";
   }
 }
