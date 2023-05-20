@@ -5,9 +5,12 @@
     "npm": "^8.19.3"
   },
   "name": "full-stack-recruitment-test",
+  "homepage": "https://blinkz333.github.io/flight_booking",
   "version": "1.0.0",
   "description": "Ringzero full-stack recruitment test.",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "cross-env CI=true react-scripts test"
@@ -38,6 +41,7 @@
   ],
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
     "react-icons": "^4.8.0",
     "reactstrap": "^9.1.10"
   }

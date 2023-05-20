@@ -13,7 +13,7 @@ I'm not sure about this question. always use npm start
 # General:
 
 ### Q) If you had more time, what further improvements or new features would you add?
-If I have time , I will add some search by date , user can select departure -> arrival , select 2 agent compare  make ux better , now I sort data by Rating with agent 
+If I have time , I will add some search by date , user can select departure -> arrival , select 2 agent compare , sort by (ex: sort by price )  make ux better , now I sort data by Rating with agent 
 
 ### Q) Which parts are you most proud of? And why?
 I proud about I write Css with myself because now in my company we have UI designer to make Css code for frontend same like I talk with you , since I work at frontend role I don't have a much time to write Css with myself , I think my Css might have some errors but I will improve myself better than now.
