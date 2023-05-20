@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/flight_booking/static/css/main.7d7dde42.css",
+    "main.js": "/flight_booking/static/js/main.13806900.js",
+    "main.js.map": "/flight_booking/static/js/main.13806900.js.map",
+    "css.html": "/flight_booking/css.html",
+    "index.html": "/flight_booking/index.html",
+    "js.html": "/flight_booking/js.html",
+    "loadable-stats.json": "/flight_booking/loadable-stats.json",
+    "static/css/main.7d7dde42.css.map": "/flight_booking/static/css/main.7d7dde42.css.map",
+    "static/js/main.13806900.js.LICENSE.txt": "/flight_booking/static/js/main.13806900.js.LICENSE.txt",
+    "static/media/logo.3c612b3e.svg": "/flight_booking/static/media/logo.3c612b3e.svg"
+  },
+  "entrypoints": [
+    "static/css/main.7d7dde42.css",
+    "static/js/main.13806900.js"
+  ]
+}

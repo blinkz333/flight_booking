@@ -1,0 +1,115 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "ce886c188b4018b7daba",
+  "publicPath": "/flight_booking/",
+  "outputPath": "C:\\Users\\three\\OneDrive\\Desktop\\full-stack-recruitment-test\\build",
+  "assetsByChunkName": {
+    "main": [
+      "static/css/main.7d7dde42.css",
+      "static/js/main.13806900.js",
+      "static/js/main.13806900.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "static/css/main.7d7dde42.css",
+      "size": 7733,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/main.7d7dde42.css.map",
+      "size": 86795,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/main.13806900.js",
+      "size": 146600,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/main.13806900.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/main.13806900.js.LICENSE.txt",
+      "size": 1165,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/main.13806900.js.map",
+      "size": 2091107,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/media/logo.3c612b3e.svg",
+      "size": 7767,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "src/components/Header/logo.svg"
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/css/main.7d7dde42.css",
+        "static/js/main.13806900.js",
+        "static/js/main.13806900.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": 0,
+      "files": [
+        "static/css/main.7d7dde42.css",
+        "static/js/main.13806900.js",
+        "static/js/main.13806900.js.map"
+      ]
+    }
+  ]
+}
