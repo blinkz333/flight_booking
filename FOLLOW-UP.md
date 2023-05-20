@@ -24,7 +24,7 @@ I spent the most time with Css as described in second question.
 ### Q) How did you find the test overall? Did you have any issues or have difficulties completing?If you have any suggestions on how we can improve the test, we'd love to hear them.
 Since I have tested in many companies I have never met. A company that describes the test so well. This is first time to happy when make a test LOL . 
 
-In Json I don't sure some array are wrong like legs index 4 
+In Json I don't sure some array are wrong like legs key index 4 
 
 "departure_time": "2020-11-11T11:25",
 "arrival_time": "2020-11-11T19:10",
