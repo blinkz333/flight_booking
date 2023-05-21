@@ -5,7 +5,7 @@
 First I've some problem about bpk ,  My Vscode display some error so I choose reactstrap for use some Component (Button , Card) , react-icons to use Arrow icon 
 
 ### Q) What's the command to start the application locally?
-I'm not sure about this question. always use npm start
+I'm not sure about this question. always use npm start  maybe npm run dev
 (Default) `npm start`
 
 ---
